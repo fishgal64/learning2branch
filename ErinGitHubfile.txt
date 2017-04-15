@@ -1,3 +1,6 @@
 This is a test file I created using the github interface.
 
-Changes to GitHub file from my computer
+Changes to GitHub file from my computer.
+
+I’m going to create a commit message with two changes in two files
+ 
