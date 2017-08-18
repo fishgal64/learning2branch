@@ -1,7 +1,9 @@
-This is Mike’s file.
+﻿This is Mike’s file.
 
 This is change 1.
 This is change 2.
 This is change 3.
 
 This is change 4.
+
+One more test of ssh config.
